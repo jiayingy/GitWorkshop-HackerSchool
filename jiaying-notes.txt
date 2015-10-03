@@ -20,3 +20,18 @@ git log --oneline
 
 git diff 
 	[shows what has been changed between working directory and staging area]
+
+git branch 
+	[shows all the branches that the repo contains, has a * for the branch you are on]
+
+git branch [name]
+	[creates a new branch [name]]
+
+git checkout [branch]
+	[switching to [branch]]
+
+
+
+master is always pointing to the latest commit. 
+if want to add new features, but unsure if it can work well, create a new branch that points to the latest commit and to master
+commit the updates for the new feature to the new branch
