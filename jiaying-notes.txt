@@ -30,6 +30,7 @@ git branch [name]
 git checkout [branch]
 	[switching to [branch]]
 
+Branches - parallel universes where we can work on different things in isolation
 
 
 master is always pointing to the latest commit. 
