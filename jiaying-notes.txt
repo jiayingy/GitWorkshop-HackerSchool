@@ -1,0 +1,5 @@
+mkdir [directory-name]
+	make new folder with name [directory-name]
+
+touch [file.extension]
+	creates a new file with name [file.extension]
