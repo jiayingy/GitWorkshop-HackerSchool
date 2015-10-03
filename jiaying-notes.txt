@@ -17,3 +17,6 @@ git log
 	[shows all commits that were made]
 
 git log --oneline
+
+git diff 
+	[shows what has been changed between working directory and staging area]
