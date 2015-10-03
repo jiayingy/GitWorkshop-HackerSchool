@@ -1,5 +1,17 @@
-mkdir [directory-name]
-	make new folder with name [directory-name]
-
 touch [file.extension]
 	creates a new file with name [file.extension]
+
+git init 
+	[initializes a new empty repo in current directory]
+
+git add [file]
+	[tells git to start tracking a specific file]
+
+git status
+	[shows the status of working directory]
+
+git commit -m [comment]
+	[make changes to git]
+
+git log 
+	[shows all commits that were made]
