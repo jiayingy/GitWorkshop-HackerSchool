@@ -31,7 +31,16 @@ git checkout [branch-name]
 	[switching to [branch]]
 
 git merge [branch]
-	merge changes on [branch-name] into current branch
+	[merge changes on [branch-name] into current branch]
+
+git checkout [commit-id]
+	[switches to commit]
+
+git revert --no-edit [commit-id]
+	[undo the previous command, without changing the commit message]
+
+git reset --hard
+	[undo previous command and throws away all uncommited changes]
 
 Branches - parallel universes where we can work on different things in isolation
 
